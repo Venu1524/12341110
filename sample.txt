@@ -1,2 +1,6 @@
 Hello World
-edit on master branch
+<<<<<<< HEAD
+edit on master branch and edit sample file
+=======
+edit on edit_sample_file branch
+>>>>>>> edit_sample_file
