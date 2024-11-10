@@ -1,3 +1,5 @@
 Hello World
+both features added
 edit on master branch and edit sample file
+edit on edit_sample_file branch and sample file
 
